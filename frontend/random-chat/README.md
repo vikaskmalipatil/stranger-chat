@@ -1,9 +1,3 @@
-Good 👍 You need a **clear README for judges**. Copy this and put it in your GitHub **README.md**.
-
----
-
-# README.md
-
 ```markdown
 # Stranger Chat – Interest-Based Anonymous Chat
 
@@ -23,29 +17,29 @@ The goal is to create a fun and experimental platform where people can meet stra
 
 ## Features
 
-- Interest-based stranger matching
-- Real-time messaging using WebSockets
-- Typing indicator
-- Next / Skip stranger option
-- Online user statistics
-- Anti-spam protection using rate limiting
+- Interest-based stranger matching  
+- Real-time messaging using WebSockets  
+- Typing indicator  
+- Next / Skip stranger option  
+- Online user statistics  
+- Anti-spam protection using rate limiting  
 - Anonymous chat (no login required)
 
 ---
 
 ## Technologies Used
 
-Frontend
+### Frontend
 - Next.js
 - React
 - Tailwind CSS
 
-Backend
+### Backend
 - Node.js
 - Express.js
 - Socket.io
 
-Other
+### Other
 - WebSockets
 - Rate Limiting (rate-limiter-flexible)
 
@@ -89,7 +83,7 @@ npm install
 node server.js
 ````
 
-Server will run on:
+Server runs on:
 
 ```
 http://localhost:3000
@@ -105,7 +99,7 @@ npm install
 npm run dev
 ```
 
-Frontend will run on:
+Frontend runs on:
 
 ```
 http://localhost:3000 or http://localhost:3001
@@ -116,24 +110,16 @@ http://localhost:3000 or http://localhost:3001
 ## Live Demo
 
 Live Website:
+[https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
 
-```
-(Add your Vercel link here)
-```
-
-Backend API:
-
-```
-(Add your Render backend link here)
-```
+Backend Server:
+[https://stranger-chat-kbrm.onrender.com](https://stranger-chat-kbrm.onrender.com)
 
 ---
 
 ## GitHub Repository
 
-```
-(Add your GitHub repo link here)
-```
+[https://github.com/vikaskmalipatil/stranger-chat](https://github.com/vikaskmalipatil/stranger-chat)
 
 ---
 
@@ -152,61 +138,4 @@ Backend API:
 Developed as a creative experimental project for a hackathon to demonstrate real-time communication and interest-based user matching.
 
 ```
-
----
-
-# After adding README
-
-1️⃣ Go to your repo  
-2️⃣ Click **Add file → Create new file**  
-3️⃣ Name it:
-
-```
-
-README.md
-
-```
-
-4️⃣ Paste the above content  
-5️⃣ Commit
-
----
-
-# Fill these in your form
-
-**Project Title**
-
-```
-
-Stranger Chat – Interest Based Anonymous Chat
-
-```
-
-**Idea Behind Project**
-
-Copy from README section.
-
-**Technologies Used**
-
-```
-
-Next.js, React, Node.js, Express, Socket.io, WebSockets
-
-```
-
-**GitHub Repo**
-
-```
-
-[https://github.com/vikaskmalipatil/stranger-chat](https://github.com/vikaskmalipatil/stranger-chat)
-
-```
-
-**Demo Link**
-
-Your Vercel site.
-
----
-
-If you want, I can also give you a **very powerful hackathon description (judges love it)** that increases chances of **top 10 selection**. 🚀
 ```
