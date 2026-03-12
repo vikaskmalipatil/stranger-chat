@@ -110,7 +110,7 @@ http://localhost:3000 or http://localhost:3001
 ## Live Demo
 
 Live Website:
-[https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+[https://stranger-chat-henna.vercel.app/](https://stranger-chat-henna.vercel.app/)
 
 Backend Server:
 [https://stranger-chat-kbrm.onrender.com](https://stranger-chat-kbrm.onrender.com)
